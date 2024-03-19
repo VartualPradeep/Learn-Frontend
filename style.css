@@ -62,7 +62,7 @@ nav .search-bar input {
 
 .first-section img {
     background-size: 100% 100%;
-    background-image: url(photo/img1.png);
+    background-image: url(img1.png);
     background-attachment: fixed;
 }
 
@@ -72,7 +72,7 @@ h1 .fourth-text {
 }
 
 .first-section {
-    background-image: url(photo/img1.png);
+    background-image: url(img1.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -335,7 +335,7 @@ h1 .fourth-text {
 /*Section five*/
 
 .section-five .section-five-img {
-    background-image: url(photo/img12.png);
+    background-image: url(img12.png);
     height: 1114px;
     width: auto;
     background-repeat: no-repeat;
@@ -473,17 +473,29 @@ h1 .fourth-text {
     background: #833AB4;
     border-radius: 50px;
 }
+.fig01:hover{
+    cursor: pointer;
+}
 .fig02{
     background: #1877F2;
     border-radius: 50px;
+}
+.fig02:hover{
+    cursor: pointer;
 }
 .fig03{
     background: #1DA1F2;
     border-radius: 50px;
 }
+.fig03:hover{
+    cursor: pointer;
+}
 .fig04{
     background: #25D366;
     border-radius: 50px;
+}
+.fig04:hover{
+    cursor: pointer;
 }
 .t1{
     padding: 100px;
